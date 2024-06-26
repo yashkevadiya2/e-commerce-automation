@@ -1,0 +1,72 @@
+{
+    "products": [
+        {
+            "name": "shirt",
+            "price": "$ 15"
+        },
+        {
+            "name": "Cropped Stay Groovy off white",
+            "price": "$10.90"
+        },
+        {
+            "name": "Basic Cactus White T-shirt",
+            "price": "$13.25"
+        },
+        {
+            "name": "Skater Black Sweatshirt",
+            "price": "$25.90"
+        },
+        {
+            "name": "Black Tule Oversized",
+            "price": "$29.45"
+        },
+        {
+            "name": "Black Batman T-shirt",
+            "price": "$10.90"
+        },
+        {
+            "name": "Blue T-Shirt",
+            "price": "$9.00"
+        },
+        {
+            "name": "Loose Black T-shirt",
+            "price": "$14.00"
+        },
+        {
+            "name": "Ringer Hall Pass",
+            "price": "$10.90"
+        },
+        {
+            "name": "Grey T-shirt",
+            "price": "$14.90"
+        },
+        {
+            "name": "Black T-shirt with white stripes",
+            "price": "$14.90"
+        },
+        {
+            "name": "Turtles Ninja T-shirt",
+            "price": "$10.90"
+        },
+        {
+            "name": "Slim black T-shirt",
+            "price": "$49.90"
+        },
+        {
+            "name": "Blue Sweatshirt",
+            "price": "$22.50"
+        },
+        {
+            "name": "White T-shirt Gucci",
+            "price": "$18.70"
+        },
+        {
+            "name": "Tropical Wine T-shirt",
+            "price": "$134.90"
+        },
+        {
+            "name": "Marine Blue T-shirt",
+            "price": "$49.00"
+        }
+    ]
+}
