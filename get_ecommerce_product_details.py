@@ -29,5 +29,9 @@ def close_system ():
         json.dump(data, f, ensure_ascii=False, indent=4)
         f.close()
 
-close_system()
+while True:
+    close_system()
+    time.sleep(300)
+
+
 
